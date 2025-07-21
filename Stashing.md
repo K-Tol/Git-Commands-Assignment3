@@ -35,3 +35,14 @@ Reapplies the last stash, but keeps a copy of the stash in the stash list
 This version of stash is great if you want to reapply a stash over and over again. Same rules
 apply from other stash commands when it comes to specific stashes you want applied.
 
+## git stash save "message"
+```bash
+git stash save "message"
+```
+
+### What it does:
+Save current changes to the stash list with a message of your choice
+
+### Narrative:
+Workes the same as the regeular stash command but is an older way of saving with a message.
+Said messages can be helpful for identification when browsing the list.
