@@ -32,3 +32,15 @@ This gets rid of any changes to that file and restores it to the previous commit
 ### Narrative:
 Great if you want to discard any un-needed changes or made change by accident, and want to go back
 to a previous commit.
+
+## git restore file
+```bash
+git restore <file>
+```
+
+### What it does:
+A modern way of restore a file to the last commited version
+
+### Narrative:
+A more modern version of checkout file, leading to less errors due to checkout having multiple functions.
+Restore is only for file restoration.
