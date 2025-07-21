@@ -32,3 +32,15 @@ Moves to the branch of your choice
 
 ### Narrative:
 When used your working directory will match whatever branch you switch to.
+
+## git switch <branch-name>
+```bash
+git switch <branch-name>
+```
+
+### What it does:
+Newer way to move to the branch of your choice
+
+### Narrative:
+Does the same as git checkout in terms of dealing with branches, but was introduced to flow better
+and to reduce confusion with checkout.
