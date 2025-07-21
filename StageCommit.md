@@ -43,3 +43,15 @@ This commits a change with an message attached to it
 ### Narrative:
 This is the next step in the update process, right after staging. This finialize a change and records it in the remote
 repository. A message is attached to show some  info about the commit.
+
+## git commit -am
+```bash
+git commit -am "Your message"
+```
+
+### What it does:
+Shorthand command that stages tracked files and commits with a message
+
+### Narrative:
+Very similar to the -m version, this one tacks on the addition of staging files. Said files must have been tracked already in
+order to work, other wise a git add command must occur first.
