@@ -5,11 +5,11 @@ contains the links for each category of git commands.
 
 ## [Repository Basics](RepoBasics.md)
 
-## [Staging & Committing](Stage&Commit.md)
+## [Staging & Committing](StageCommit.md)
 
 ## [Working with Remote Repos](RemoteRepos.md)
 
-## [Branching & Merging](Branch&Merge.md)
+## [Branching & Merging](BranchMerge.md)
 
 ## [Undoing Changes](UndoChange.md)
 
