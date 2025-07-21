@@ -31,3 +31,15 @@ Similar with add file, but it takes the whole current directory and stages it
 ### Narrative:
 This version of add takes all files, folders, and others and stages it. There are other add files commands but this one
 allows you to stage files that start with a period.
+
+## git commit -m
+```bash
+git commit -m "Your message"
+```
+
+### What it does:
+This commits a change with an message attached to it
+
+### Narrative:
+This is the next step in the update process, right after staging. This finialize a change and records it in the remote
+repository. A message is attached to show some  info about the commit.
