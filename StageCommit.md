@@ -55,3 +55,15 @@ Shorthand command that stages tracked files and commits with a message
 ### Narrative:
 Very similar to the -m version, this one tacks on the addition of staging files. Said files must have been tracked already in
 order to work, other wise a git add command must occur first.
+
+## git log
+```bash
+git log
+```
+
+### What it does:
+This command shows the history for commits
+
+### Narrative:
+Information given such as commit id, who made the commit, the date, and the commit message. Log is important when you want to
+use commands like cherry-pick.
