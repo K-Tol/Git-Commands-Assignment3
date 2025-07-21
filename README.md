@@ -1,1 +1,1 @@
-# Git-Commands-Assignment3
+# This is Assignment 3 that involes practicing git commands as well as explaining what each one does
