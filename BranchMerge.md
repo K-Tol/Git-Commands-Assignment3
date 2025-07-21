@@ -21,3 +21,14 @@ This creates a new branch
 ### Narrative:
 Coming from you current branch, you create a new branch. Keep it mind that this command only creates it,
 you must mannually switch to said branch in order to work on it.
+
+## git checkout <branch-name>
+```bash
+git checkout <branch-name>
+```
+
+### What it does:
+Moves to the branch of your choice
+
+### Narrative:
+When used your working directory will match whatever branch you switch to.
